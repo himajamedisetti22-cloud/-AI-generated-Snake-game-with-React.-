@@ -1,0 +1,6 @@
+{
+  "name": "Neon Snake OS",
+  "description": "A dark neon 20x20 Snake game with an integrated AI music player. Play Snake while grooving to generative tracks.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
